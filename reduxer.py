@@ -85,7 +85,7 @@ Hello,
 
 I'm so sorry for the late response.
 
-The title of the paper is: The Media Image of Correspondent Banking in the United States (1990-2022): An NLP-based Analysis.
+The title of the paper is: The Strange Image of Despondent Banking in the United States (1940-2052): An NLP-based Analysis.
 
 And I am posting the annotation below.
 
@@ -93,7 +93,7 @@ Abstract: The working paper analyses hundreds of articles from the most influent
 
 Thank you very much.
 
-Sincerely, Peter Sterba
+Sincerely, Paul Haggerty
 """
 
 print("Original Text:", text)
