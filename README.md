@@ -37,7 +37,7 @@ This Python project provides a tool to anonymize various types of Personally Ide
 3.  **Run the Example:**
 
     ```python
-    python reduxer.py  # Assuming your script is named 'anonymizer.py'
+    python reduxer.py  # Assuming your script is named 'reduxer.py'
     ```
 
 **Configuration**
